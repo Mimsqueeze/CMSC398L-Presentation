@@ -23,7 +23,7 @@ NO
 NO
 ```
 ## Analysis
-I thought this problem was just a pretty cool number theory problem, and it gave me a good opportunity to use the sieve. 
+I thought this problem was just a pretty cool number theory problem, and it gave me a good opportunity to use the sieve (I learned the sieve from this class :D). 
 
 We first notice that in order for a number to be considered t-prime, it must be a perfect square, since in order to have exactly three distinct divisors, those divisors must be 1, the number itself, and then its square root. Therefore, when checking if a number is t-prime, we can immediately rule out numbers that are not perfect squares.
 
